@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4c69b0e34dcbea04b121dd3c70fbf64b7f95153">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4a17d7edb08e28cc505c1b83d8e44a3cd518fb00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.1.0_b6c3c83bf78ca46935367af09bc39c98c7fe3321\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_4de26b2017eb7dad3473d5ee9fcdc559c39e122c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\1.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3c15dd877bfdfbbd71f0d2f4c5139b52fd04735">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.wdullaer-materialdatetimepicker-1.5.1_e4b4ceb111dec35b20a230bc12c6e8ebdb6b5b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_3b26a3f24a62a30bc533050f7bffa6363daf783c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_36ae89db21be23d2fa2022b4d10a3820fdfc6f2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_6883e43c2406631b7c112dfd096c57944be3c76a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_510c17c4f470043d66b1ebf1806d7cac21b1bceb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="afb4e25cd2662b6b7cbe1a675047f47948c45c83">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5b0f9b9b3d7ed5cfbcaad93a5c1d5f428bc29c86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.1.0_1fe9d6c12cf8f38ea37bda7fca26bb634ab9512e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.0_cb9c2c7961649ee2040746bed68e20bf14999944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_4da3e2639a7b467606947ac949f54f7ebe2d1f1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_c6e764c46e585304a0c466bc8e08f2bdafad761a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\exploded-aar\com.github.ganfra\material-spinner\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a973f67796996adb991bd6e63a11b2b88a571219">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.ganfra-material-spinner-1.1.0_a8b41500d7e0a83293381e36d0e0ddb85df835a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Anup\Downloads\ToDoList2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_e34c35828aca8aa7fdef609f8572e4992b16038e\classes.dex" />
+    </item>
+
+</items>
